@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "greeting": "Hello!",
+    "name": "I’m Azam Shah",
+    "description": "A passionate Front-End Developer creating seamless digital experiences and crafting visually engaging websites.",
+    "pic": "/images/azamshah.png",
+    "downloadBtnText": "Download CV",
+    "btn2": "View My Projects"
+  }
+]

@@ -1,23 +1,36 @@
-import logo from './logo.svg';
 import './App.css';
+import About from './Components/About';
+import Contact from './Components/Contact';
+import Home from './Components/Home';
+import Navbar from './Components/Navbar';
+import Projects from './Components/Projects';
+import Skills from './Components/Skills';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-gradient-to-r from-black to-blue-950">
+      <Navbar />
+
+      {/* Add ID attributes for proper scrolling */}
+      <section id="Home">
+        <Home />
+      </section>
+
+      <section id="About">
+        <About />
+      </section>
+
+      <section id="Skill">
+        <Skills />
+      </section>
+
+      <section id="Projects">
+        <Projects />
+      </section>
+
+      <section id="Contact">
+        <Contact />
+      </section>
     </div>
   );
 }

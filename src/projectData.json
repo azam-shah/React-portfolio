@@ -1,0 +1,37 @@
+[
+    {
+        "id" : "1",
+        "image" : "/images/pic1.jpeg",
+        "title" : "BLOG WEB PROJECT",
+        "description" : "This Website is Totally create from HTML,CSS",
+        "btn" : "View More",
+        "url" : "https://azam-shah.github.io/blog-web/"
+    },
+    {
+        "id" : "2",
+        "image" : "/images/npic2.jpeg",
+        "title" : "CRISMAS WEB PROJECT",
+        "description" : "This Website is Totally create from BOOTSTRAP",
+        "btn" : "View More",
+        "url" : "https://azam-shah.github.io/crismas-web/"
+
+    },
+    {
+        "id" : "3",
+        "image" : "/images/pic3.jpeg",
+        "title" : "CRYPTO WEB PROJECT",
+        "description" : "This Website is Totally create from TAILWIND CSS",
+        "btn" : "View More",
+        "url" : "https://azam-shah.github.io/criss-web/"
+
+    },
+    {
+        "id" : "4",
+        "image" : "/images/pic4.jpeg",
+        "title" : "REACT WEB PROJECT",
+        "description" : "This Website is Totally create from REACT with full fuctionalty",
+        "btn" : "View More",
+        "url" : "https://harmonious-florentine-29e657.netlify.app"
+
+    }
+]

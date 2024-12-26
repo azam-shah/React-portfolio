@@ -1,0 +1,10 @@
+[
+    {
+        "id" : "2",
+        "pic": "/images/azamshah.png",
+        "title" : "About Me!",
+        "profession" : "I'M FRONTED DEVELOPER",
+        "description" : "Hi! I'm Azam Shah, a passionate front-end developer dedicated to building user-friendly, visually appealing, and high-performing web applications. With expertise in modern technologies like React, Tailwind CSS, Bootstrap, CSS, React-Native and Next.js, I bring creativity and technical skills together to craft seamless digital experiences.From designing intuitive interfaces to deploying fully responsive websites, my goal is to deliver impactful solutions that leave a lasting impression. Explore my projects to see how I turn ideas into reality!",
+        "Hire" : "Hire Me"
+    }
+]

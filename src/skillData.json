@@ -1,0 +1,13 @@
+[
+    {
+        "id" : "3",
+        "head" : "My Skills",
+        "pera" : "I am a passionate frontend developer with expertise in crafting user-friendly and visually appealing web interfaces.",
+        "image1" : "/images/html.png",
+        "image2" : "/images/css-3.png",
+        "image3" : "/images/bootstrap.png",
+        "image4" : "/images/js.png",
+        "image5" : "/images/atom.png",
+        "image6" : "/images/1175544_firebase_google_icon.png"
+    }
+]
